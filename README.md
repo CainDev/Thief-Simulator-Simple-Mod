@@ -10,6 +10,8 @@ This is a very basic cheat I made for my introduction to Unity Game Hacking. It 
 
 > Increase Level
 
+> Shows Current Coords
+
 <br><br>
 <h3>How to Use</h3>
   
