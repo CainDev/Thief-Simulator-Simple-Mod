@@ -1,7 +1,7 @@
 # Thief Simulator Simple Mod Menu
 This is a very basic cheat I made for my introduction to Unity Game Hacking. It doesn't do much and isn't really being worked on anymore. hopefully someone else can get some use out of it :)
 
-<br><br>
+<br>
 ### Features
 
 > Increase Cash
