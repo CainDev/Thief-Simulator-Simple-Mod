@@ -1,8 +1,8 @@
-<h1>Thief Simulator Simple Mod Menu</h1>
+# Thief Simulator Simple Mod Menu
 This is a very basic cheat I made for my introduction to Unity Game Hacking. It doesn't do much and isn't really being worked on anymore. hopefully someone else can get some use out of it :)
 
 <br><br>
-<h3> Features</h3>
+### Features
 
 > Increase Cash
 
@@ -13,7 +13,7 @@ This is a very basic cheat I made for my introduction to Unity Game Hacking. It 
 > Shows Current Coords
 
 <br><br>
-<h3>How to Use</h3>
+### How to Use
   
 > 1) Compile as a x64 .Dll
 
@@ -28,7 +28,7 @@ This is a very basic cheat I made for my introduction to Unity Game Hacking. It 
 > 4) Launch Game, Inject & Enjoy :)
 
 <br><br>
-<h3>Credits</h3>
+### Credits
 
 > Zat for his introduction to Unity hacking.
 
