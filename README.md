@@ -11,7 +11,7 @@ This is a very basic cheat I made for my introduction to Unity Game Hacking. It 
 
 
 
-<h3>How to Use>/h3>
+<h3>How to Use></h3>
   
 > 1) Compile as a x64 .Dll
 
