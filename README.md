@@ -2,6 +2,7 @@
 This is a very basic cheat I made for my introduction to Unity Game Hacking. It doesn't do much and isn't really being worked on anymore. hopefully someone else can get some use out of it :)
 
 <h3> Features</h3>
+
 > Increase Cash
 
 > Increase Skill Points
@@ -11,6 +12,7 @@ This is a very basic cheat I made for my introduction to Unity Game Hacking. It 
 
 
 <h3>How to Use>/h3>
+  
 > 1) Compile as a x64 .Dll
 
 
