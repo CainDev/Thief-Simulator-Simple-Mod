@@ -118,4 +118,3 @@ C:\Users\Sus\source\repos\ThiefSimulatorCheats\ThiefSimulatorCheats\obj\x64\Debu
 C:\Users\Sus\source\repos\ThiefSimulatorCheats\ThiefSimulatorCheats\obj\x64\Debug\ThiefSimulatorCheats.csproj.CopyComplete
 C:\Users\Sus\source\repos\ThiefSimulatorCheats\ThiefSimulatorCheats\obj\x64\Debug\ThiefSimulatorCheats.dll
 C:\Users\Sus\source\repos\ThiefSimulatorCheats\ThiefSimulatorCheats\obj\x64\Debug\ThiefSimulatorCheats.pdb
-C:\Users\Sus\source\repos\ThiefSimulatorCheats\ThiefSimulatorCheats\obj\x64\Debug\ThiefSimulatorCheats.csprojAssemblyReference.cache

@@ -15,12 +15,10 @@ namespace ThiefSimulatorCheats
         public static void Init()
         {
             Loader._Load = new GameObject();
-
             Loader._Load.AddComponent<Cheats>();
-
+            Loader._Load.AddComponent<Menu>();
             Loader.DontDestroyOnLoad(Loader._Load);
         }
-
         private static GameObject _Load;
     }
 }
