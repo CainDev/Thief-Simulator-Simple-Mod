@@ -44,17 +44,20 @@ namespace ThiefSimulatorCheats
 
         private void DrawHome(int id)
         {
-            Menu.gravToggle = GUILayout.Toggle(Menu.gravToggle, "Toggles Gravity", new GUILayoutOption[0]);          
+            Menu.gravToggle = GUILayout.Toggle(Menu.gravToggle, "Toggles Gravity", new GUILayoutOption[0]);
+            Menu.superJumpToggle = GUILayout.Toggle(Menu.superJumpToggle, "Toggle Super Jump", new GUILayoutOption[0]);
 
             GUILayout.Space(15f);
 
             if (GUILayout.Button("Opens Teleports", new GUILayoutOption[0]))
             {
+                this._teleWindow.x = this._mainWindow.width + 30f;
                 teleVisible = !teleVisible;
             }
 
             if (GUILayout.Button("Open Player Stats", new GUILayoutOption[0]))
             {
+                this._playerWindow.x = this._teleWindow.width + 280f;
                 playerVisible = !playerVisible;
             }
 
@@ -162,6 +165,8 @@ namespace ThiefSimulatorCheats
                 PlayerInventory.level += 5;
             }
 
+            GUILayout.Space(15f);
+
             if (GUILayout.Button("Reset Stats", new GUILayoutOption[0]))
             {
                 PlayerInventory.level = 1;
@@ -169,8 +174,6 @@ namespace ThiefSimulatorCheats
                 PlayerInventory.skillPoints = 0;
                 PlayerInventory.experience = 0;
             }
-
-            GUILayout.Space(15f);
 
             GUI.DragWindow();
         }
@@ -203,6 +206,7 @@ namespace ThiefSimulatorCheats
         private Rect _playerWindow;
 
         public static bool gravToggle = false;
+        public static bool superJumpToggle = false;
     }
 }
 
