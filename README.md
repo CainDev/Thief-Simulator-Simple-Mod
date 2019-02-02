@@ -14,6 +14,8 @@ This is a very basic cheat I made for my introduction to Unity Game Hacking. It 
 
 > Toggle Gravity On/Off
 
+> Toggle Super Jump
+
 <br><br>
 ### How to Use
   
