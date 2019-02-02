@@ -10,7 +10,9 @@ This is a very basic cheat I made for my introduction to Unity Game Hacking. It 
 
 > Increase Level
 
-> Shows Current Coords
+> Teleport to All Houses
+
+> Toggle Gravity On/Off
 
 <br><br>
 ### How to Use
